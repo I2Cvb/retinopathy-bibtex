@@ -10,3 +10,5 @@ What for?
 ---------
 
 This is the repository containing all the publications related with retinopathy, SD-OCT that we use.
+
+**Sort the entries by alphabetic order.**
